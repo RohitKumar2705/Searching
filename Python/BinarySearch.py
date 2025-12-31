@@ -10,3 +10,6 @@ def binary_search(arr, target):
             right = mid - 1
     return -1
 
+
+arr = [1,2,4,5,6,7,8,8,9,99,0,0]
+binary_search(arr)
